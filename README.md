@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Belva Ghani Abhinaya! 👋
 
-<!--
-**Staphlerr/Staphlerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science @ University of Indonesia ('23)
+Passionate about **Algorithms**, **Software Engineering**, and **Database Systems**. Currently serving as a **Teaching Assistant** at Fasilkom UI, helping students navigate the world of programming.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ About Me
+- 🍎 **Teaching Assistant** for *Data Structures & Algorithms*, *Linear Algebra*, *Databases*, and *DDP2*.
+- 💻 Currently building projects with **Python** and **Java**.
+- 📊 Interested in **Data Science**, **Computer Vision**, **Data Structures & Algorithm**, and **Data Engineering**.
+- ✍️ When I'm not coding, I play **Valorant** and **Magic Chess**, or listen to **Hindia** and **Reality Club**.
+
+---
+
+## 🚀 Technical Skills
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### Tools & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23005C84.svg?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight" alt="Belva's Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+</p>
+
+---
+
+## 📫 Get in Touch
+- **LinkedIn**: [linkedin.com/in/belva-ghani-abhinaya](https://www.linkedin.com/in/belva-ghani-abhinaya/)
+- **Email**: belva.ghani@ui.ac.id || belvaghaniabhinaya2020@gmail.com

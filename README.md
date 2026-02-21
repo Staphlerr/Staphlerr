@@ -6,7 +6,7 @@ Passionate about **Algorithms**, **Software Engineering**, and **Database System
 ---
 
 ## 🛠️ About Me
-- 🍎 **Teaching Assistant** for *Data Structures & Algorithms*, *Linear Algebra*, *Databases*, and *DDP2*.
+- 🍎 **Teaching Assistant** for *Data Structures & Algorithms*, *Linear Algebra*, *Databases*, and *Programming Foundations 2*.
 - 💻 Currently building projects with **Python** and **Java**.
 - 📊 Interested in **Data Science**, **Computer Vision**, **Data Structures & Algorithm**, and **Data Engineering**.
 - ✍️ When I'm not coding, I play **Valorant** and **Magic Chess**, or listen to **Hindia** and **Reality Club**.

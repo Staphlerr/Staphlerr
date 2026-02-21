@@ -27,14 +27,6 @@ Passionate about **Algorithms**, **Software Engineering**, and **Database System
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight" alt="Belva's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
-
----
-
 ## 📫 Get in Touch
 - **LinkedIn**: [linkedin.com/in/belva-ghani-abhinaya](https://www.linkedin.com/in/belva-ghani-abhinaya/)
 - **Email**: belva.ghani@ui.ac.id || belvaghaniabhinaya2020@gmail.com
